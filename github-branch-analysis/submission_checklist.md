@@ -8,8 +8,8 @@ Use this checklist to ensure your submission is complete and professional.
 
 ## ✅ Code Files
 
-- [ ] `input_flask_enhanced_v2_TEMPLATE.py` (without actual token)
-- [ ] `streamlit_dashboard_v3.py`
+- [ ] `flask_branch_analysis.py` (without actual token)
+- [ ] `streamlit_dashboard.py`
 - [ ] `requirements.txt`
 - [ ] All code is properly formatted and commented
 
@@ -133,8 +133,8 @@ github-branch-analysis/
 ├── 📄 SUBMISSION_CHECKLIST.md
 ├── 📄 requirements.txt
 ├── 📄 .gitignore
-├── 🐍 input_flask_enhanced_v2_TEMPLATE.py
-└── 🐍 streamlit_dashboard_v3.py
+├── 🐍 flask_branch_analysis.py
+└── 🐍 streamlit_dashboard.py
 ```
 
 **NOT included (protected by .gitignore):**
