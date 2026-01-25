@@ -721,7 +721,7 @@ SOFTWARE.
 ## 👤 Author
 
 **[S.Shanmuga Priya]**
-- GitHub: [@ShanmugapriyaS-ai]([https://github.com/ShanmugapriyaS-ai])
+- GitHub: [@ShanmugapriyaS-ai](https://github.com/ShanmugapriyaS-ai)
 - Email: priyadurgaps@gmail.com
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/shanmuga-priya-9b9a9b209)
 
