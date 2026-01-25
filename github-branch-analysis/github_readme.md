@@ -720,10 +720,10 @@ SOFTWARE.
 
 ## 👤 Author
 
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**[S.Shanmuga Priya]**
+- GitHub: [@ShanmugapriyaS-ai]([https://github.com/ShanmugapriyaS-ai])
+- Email: priyadurgaps@gmail.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/shanmuga-priya-9b9a9b209)
 
 ---
 
@@ -780,19 +780,12 @@ SOFTWARE.
 
 For issues, questions, or suggestions:
 
-1. **GitHub Issues:** [Create an issue](https://github.com/yourusername/github-branch-analysis/issues)
-2. **Email:** your.email@example.com
+1. **GitHub Issues:** [Create an issue](https://github.com/ShanmugapriyaS-ai/github-branch-analysis/issues)
+2. **Email:** priyadurgaps@gmail.com
 3. **Documentation:** Check this README thoroughly
 
 ---
 
-## 🔗 Related Projects
-
-- [Git Branch Visualization](https://github.com/example/git-viz)
-- [GitHub Analytics Tool](https://github.com/example/gh-analytics)
-- [Merge Conflict Detector](https://github.com/example/conflict-detector)
-
----
 
 ## 📝 Changelog
 
